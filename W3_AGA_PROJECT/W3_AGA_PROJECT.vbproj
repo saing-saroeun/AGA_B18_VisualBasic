@@ -86,6 +86,12 @@
     <Compile Include="Frm_Dashboard.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Frm_Saroeun.Designer.vb">
+      <DependentUpon>Frm_Saroeun.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Saroeun.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
